@@ -22,7 +22,7 @@ An intelligent email classification system that uses Google's Gemini AI to autom
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gmail-classifier.git
+git clone https://github.com/Dvsh-Srma/gmail-classifier.git
 cd gmail-classifier
 ```
 
